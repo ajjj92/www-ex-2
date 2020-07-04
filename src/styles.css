@@ -4,6 +4,8 @@ body {
 }
 
 .board-container {
+  border: 1px solid black;
+  border-collapse: collapse;
   display: inline-grid;
 }
 
